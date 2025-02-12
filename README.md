@@ -13,8 +13,8 @@ This repository demonstrates the implementation of **Model Predictive Control (M
 ## **Project Structure**  
 ```
 📂 Industrial-MPC-MATLAB  
- ├── 📁 MATLAB simulink/          # MATLAB Simulink models   
- ├── 📁 Reports/         # Documentation and analysis  
+ ├── 📁 MATLAB simulink/  # MATLAB Simulink models   
+ ├── 📁 Reports/          # Documentation and analysis  
  ├── README.md          # Project overview  
  └── LICENSE            # License file  
 ```

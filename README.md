@@ -41,8 +41,22 @@ This repository demonstrates the implementation of **Model Predictive Control (M
 | **MPC**    | Fast         | Low       | Strong             | Excellent            |  
 
 ## **Contributors**  
-- **Nada Zein Eddin**  
-- **Wa’el Jad Allah**  
+<table>  
+  <tr>  
+    <td align="center">  
+      <a href="https://github.com/Nadazeineedin">  
+        <img src="https://github.com/Nadazeineedin.png" width="100px;" alt="Nada Zein Eddin"/>  
+        <br /><sub><b>Nada Zein Eddin</b></sub>  
+      </a>  
+    </td>  
+    <td align="center">  
+      <a href="https://github.com/Wael-JadAllah">  
+        <img src="https://github.com/Wael-JadAllah.png" width="100px;" alt="Wa’el Jad Allah"/>  
+        <br /><sub><b>Wa’el Jad Allah</b></sub>  
+      </a>  
+    </td>  
+  </tr>  
+</table>
 
 ## **License**  
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
